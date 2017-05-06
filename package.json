@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuJianH/express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuJianH/express/issues"
+  },
+  "homepage": "https://github.com/xuJianH/express#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

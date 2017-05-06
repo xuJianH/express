@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/xuJianH/express#readme",
   "dependencies": {
+    "express": "^4.15.2",
     "gulp": "^3.9.1"
   }
 }
